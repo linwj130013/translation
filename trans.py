@@ -6,7 +6,7 @@
 
 from googletrans import Translator # pip install googletrans
 import docx # pip install python-docx 
-import timeit # pip install timeit
+import timeit
     
 def main():
     fin = docx.Document('src.docx')
